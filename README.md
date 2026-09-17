@@ -1,4 +1,4 @@
-# Real-Time Adaptive System Identification using Convex Combination of NLMS and TFLANN Filters
+# Intelligent Hybrid Signal Learning using Convex Combination of NLMS and TFLANN Filters
 
 ## Overview
 
